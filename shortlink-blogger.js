@@ -10,19 +10,6 @@ tLik = tLik.replace("?m=1", "");
 tLik = tLik.replace("&m=0", "");
 
 //--- Don't delete or change this code---
-iconLoad1='https://cdn.dribbble.com/users/2760451/screenshots/5656895/cloud-upload.gif';
-iconLoad2='https://sidesi.kemdikbud.go.id/assets/img/loading1.gif';
-iconLoad3='https://www.psdtemplatesblog.com/wp-content/uploads/2015/07/Shopify-Checkout.gif';
-iconLoading1='https://lh3.googleusercontent.com/proxy/nbWGrjT0gMIR1Et1QBqbQocSMKzbMCtJiTH80jHjq1JpjnGepnF1VJ3_aIQKS5VyCr1xtJATySAqKm-YsLN4UQS8QcltW7wlNbKbQhRBKj5OxKK8Wn3utBCv';
-iconLoading2='https://i.pinimg.com/originals/58/4b/60/584b607f5c2ff075429dc0e7b8d142ef.gif';
-iconLoading3='https://simlppm.unja.ac.id/depan/images/loading_ring.gif';
-iconLoading4='https://cdn.lowgif.com/small/d35d94c490e598e3-loading-gif-transparent-loading-gif.gif';
-iconLoading5='https://www.fahrenheit.co.id/img/load.gif';
-iconLoading6='https://66.media.tumblr.com/345127a42a4baf76158920730f808f3b/tumblr_nak5muSmwi1r2geqjo1_500.gif';
-iconLoading7='https://www.inspirationde.com/media/2019/09/cd514331234507.564a1d2324e4e.gif';
-iconLoading8='https://i.pinimg.com/originals/fe/ea/fb/feeafb23c614d5562345b39dfffa032f.gif';
-iconLoading9='https://i.imgur.com/mE06fcZ.gif';
-iconLoading10='https://46.media.tumblr.com/tumblr_lxsu5x8Zg51r9lmr8o1_250.gif';
 iconLoad4='https://2.bp.blogspot.com/-qHsWV7gcuL4/XEXOrmUFxbI/AAAAAAAA4fo/pqy1A4J5pB8Lfwm5m2xaQXsYaaS5puDuACLcBGAs/s1600/Broken%2BLinks.png';
 function maketextnumber(n){for(var r=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","0","1","2","3","4","5","6","7","8","9"],e=n,t=new Array,a=0;a<=e-1;a++)t[a]=r[parseInt(Math.random()*r.length)],t=t,randomtextnumber=t.join("")};
 function convertToSlug( str ) {
